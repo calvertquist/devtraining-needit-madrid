@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Astea BackOrder" max_length="40" name="x_58872_needit_astea_backorder" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="BackorderDate" max_length="40" name="u_backorderdate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="BackOrderNumber" max_length="40" name="u_backordernumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DemandMaterialId" max_length="40" name="u_demandmaterialid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ImportStatus" max_length="40" name="u_importstatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IsSerialaized" max_length="40" name="u_isserialaized" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OrderedQty" max_length="40" name="u_orderedqty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PartNumber" max_length="40" name="u_partnumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Qty" max_length="40" name="u_qty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ShipmentRequestType" max_length="40" name="u_shipmentrequesttype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TransactionId" max_length="40" name="u_transactionid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TransactionKey" max_length="40" name="u_transactionkey" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VanWarehouseId" max_length="40" name="u_vanwarehouseid" type="string"/>
+    </element>
+</database>

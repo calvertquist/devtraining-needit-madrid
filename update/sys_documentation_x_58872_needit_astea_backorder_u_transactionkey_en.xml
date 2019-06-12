@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_transactionkey" label="TransactionKey" language="en" table="x_58872_needit_astea_backorder">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_transactionkey</element>
+            <help/>
+            <hint/>
+            <label>TransactionKey</label>
+            <language>en</language>
+            <name>x_58872_needit_astea_backorder</name>
+            <plural>TransactionKeys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 18:16:31</sys_created_on>
+            <sys_id>17020a7cdb423300e3a858b3ca961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TransactionKey</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_astea_backorder_u_transactionkey_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 18:16:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
