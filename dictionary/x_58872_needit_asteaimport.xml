@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Astea" max_length="40" name="x_58872_needit_asteaimport" type="collection">
+        <element attributes="import_attribute_name=BackorderDate" label="BackorderDate" max_length="40" name="u_backorderdate" type="datetime"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BackOrderNumber" label="BackOrderNumber" max_length="40" name="u_backordernumber" type="string"/>
+        <element attributes="import_attribute_name=DemandMaterialId" label="DemandMaterialId" max_length="40" name="u_demandmaterialid" type="integer"/>
+        <element attributes="import_attribute_name=ImportStatus" label="ImportStatus" max_length="40" name="u_importstatus" type="char"/>
+        <element attributes="import_attribute_name=IsSerialaized" label="IsSerialaized" max_length="40" name="u_isserialaized" type="char"/>
+        <element attributes="import_attribute_name=OrderedQty" label="OrderedQty" max_length="15" name="u_orderedqty" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PartNumber" label="PartNumber" max_length="50" name="u_partnumber" type="string"/>
+        <element attributes="import_attribute_name=Qty" label="Qty" max_length="15" name="u_qty" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ShipmentRequestType" label="ShipmentRequestType" max_length="40" name="u_shipmentrequesttype" type="string"/>
+        <element attributes="import_attribute_name=TransactionId" label="TransactionId" max_length="40" name="u_transactionid" type="integer"/>
+        <element attributes="import_attribute_name=TransactionKey" label="TransactionKey" max_length="40" name="u_transactionkey" type="char"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=VanWarehouseId" label="VanWarehouseId" max_length="40" name="u_vanwarehouseid" type="string"/>
+    </element>
+</database>
